@@ -59,7 +59,7 @@ def main(pdf_path, output_audio_path):
 pdf_path = "/content/Photosynthesis.pdf"
 output_audio_path = "generated_video_audio.mp3"
 
-# Call the main function
+
 main(pdf_path, output_audio_path)
 import requests
 
